@@ -6,3 +6,4 @@ build/
 # Directories
 bin/
 bin-int/
+Debug/
